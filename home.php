@@ -18,8 +18,11 @@
   <!-- datatable -->
   <link rel="stylesheet" type="text/css" href="//cdn.datatables.net/1.10.11/css/jquery.dataTables.min.css">
 
+  <!-- font -->
+  <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+
 </head>
-<body>
+<body style="font-family: 'Raleway', sans-serif;">
 	<!-- Fixed navbar -->
     <nav class="navbar navbar-inverse navbar-fixed-top" style="background-color:#113672">
       <div class="container">
